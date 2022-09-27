@@ -53,6 +53,12 @@ iframe#tela {
 section#redes-sociais {
     text-align: right;
     padding-top:120px ;
+    
+}
+
+section#redes-sociais a {
+    background-size: cover;
+    
 }
 
 section#redes-sociais img {
